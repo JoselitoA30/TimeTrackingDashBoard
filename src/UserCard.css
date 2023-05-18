@@ -1,0 +1,9 @@
+#animacion{
+    color: #787ab5;
+  }
+  
+  #animacion:hover{
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+  }
